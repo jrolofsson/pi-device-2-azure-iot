@@ -1,5 +1,5 @@
 # pi-device-2-azure-iot
-This "application" is a first try to work with the Raspberry Pi Zero as a IoT-device. 
+This "application" is a first try to work with the Raspberry Pi Zero as an IoT-device. 
 The purpose here is to send telemetry from the Pi to an Azure IoT-hub (then what happens there, stays there). 
 
 ## Workings under the hood 
